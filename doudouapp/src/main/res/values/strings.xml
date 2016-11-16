@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">豆豆菜谱</string>
+    <string name="firstname">好豆</string>
+    <string name="homename">到家</string>
+    <string name="squarename">广场</string>
+    <string name="minename">我的</string>
+    <string name="squar_ename">广场</string>
+    <string name="draft">草稿</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="recipe">菜谱</string>
+    <string name="zero">0</string>
+    <string name="topic">话题</string>
+    <string name="photo">相册</string>
+    <string name="order">我的订单</string>
+    <string name="allorder">查看全部订单</string>
+    <string name="order_unpaid">待付款</string>
+    <string name="order_undelivery">待发货</string>
+    <string name="order_goodsreceived">待收货</string>
+    <string name="to_review">待评价</string>
+    <string name="order_refunds">退款</string>
+    <string name="suggestion">意见反馈</string>
+</resources>
