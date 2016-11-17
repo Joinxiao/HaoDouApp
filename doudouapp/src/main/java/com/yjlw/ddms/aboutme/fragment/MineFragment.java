@@ -3,7 +3,6 @@ package com.yjlw.ddms.aboutme.fragment;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -34,8 +33,6 @@ public class MineFragment extends Fragment {
     private SettingItemClickView mOrder;
     private SettingItemClickView mMycoupons;
     private SettingItemClickView mAddress;
-    private android.support.v7.app.ActionBar actionBar;
-    private Toolbar toolbar;
     private View view;
 
     @Override
